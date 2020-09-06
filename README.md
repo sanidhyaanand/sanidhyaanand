@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**sanidhyaanand/sanidhyaanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18 year old college sophomore, currently living in Mumbai. My interests are computer graphics and neural networking, although I have a fair bit to explore when it comes to the latter.  
 
 Here are some ideas to get you started:
 
