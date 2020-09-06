@@ -1,4 +1,4 @@
-### Hi!
+## Hello there
 
 I'm an 18 year old college sophomore, currently living in Mumbai, India. My interests are computer graphics and neural networking, although I have a fair bit to explore when it comes to the latter. I have some hands on experience of developing a graphics engine (not the best) using **OpenGL** using C++ and developing a few simple games using **PyGame**. These are currently the only APIs I have worked with.
 
