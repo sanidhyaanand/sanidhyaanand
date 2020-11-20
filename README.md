@@ -2,7 +2,7 @@
 
 I'm an 18 year old college sophomore, currently living in Mumbai, India. My interests are computer graphics and neural networking, although I have a fair bit to explore when it comes to the latter.
 
-I have some hands on experience of developing a graphics engine (not the best) using **OpenGL** with C++. Looking to further work on rendering engines.
+I have some hands on experience of developing a graphics engine using **OpenGL** with C++. Looking to further work on rendering engines.
 
 You can find a planet renderer project I worked on in my repository [glowing-chainsaw](https://github.com/sanidhyaanand/glowing-chainsaw). It's not the cleanest repository but I hope to better that.
 
